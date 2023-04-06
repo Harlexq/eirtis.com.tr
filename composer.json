@@ -1,0 +1,21 @@
+{
+    "name": "bakir/eirtis.com.tr",
+    "description": "eirtis-web-site",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bakir\\EirtisComTr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Harlex",
+            "email": "harlex@eirtis.com.tr"
+        }
+    ],
+    "require": {
+        "php": "^8.1.0",
+        "team-reflex/discord-php": "^7.3",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eirtis.com.tr/sitemap.xml
