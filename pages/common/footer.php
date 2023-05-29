@@ -39,9 +39,7 @@
                             <a href="index"><img src="assets/img/eirtis.png" class="rounded-circle img-fluid" alt="Eirtis"></a>
                         </div>
                         <div class="footer-text text-center">
-                            <p>Lorem ipsum dolor sit amet, consec tetur adipisicing elit, sed do eiusmod tempor
-                                incididuntut consec tetur adipisicing
-                                elit,Lorem ipsum dolor sit amet.</p>
+                            <p>Eirtis, Disord'da Bulunan Global Moderasyon, Kayıt Ve Dahasını İçeren Bot</p>
                         </div>
                     </div>
                 </div>
@@ -87,7 +85,7 @@
                         </div>
                         <div class="footer-social-icon">
                             <span>Takip Edin</span>
-                            <a href="https://discord.gg/clydev" target="_blank"><i class="fa-brands fa-discord discord-bg"></i></a>
+                            <a href="https://discord.gg/KXNebFVhTU" target="_blank"><i class="fa-brands fa-discord discord-bg"></i></a>
                             <a href="https://github.com/Harlexq" target="_blank"><i class="fa-brands fa-github github-bg"></i></a>
                             <a href="https://instagram.com/harlex0" target="_blank"><i class="fa-brands fa-instagram instagram-bg"></i></a>
                         </div>
@@ -101,7 +99,7 @@
             <div class="row">
                 <div class="col-xl-12 col-lg-12 text-center text-lg-left">
                     <div class="copyright-text">
-                        <p class="text-white">Eirtis & ClyDev 2023 &copy; Tüm Hakları Saklıdır <a href="https://github.com/Harlexq" target="_blank">Harlex</a></p>
+                        <p class="text-white">Eirtis 2023 &copy; Tüm Hakları Saklıdır <a href="https://github.com/Harlexq" target="_blank">Harlex</a></p>
                     </div>
                 </div>
             </div>

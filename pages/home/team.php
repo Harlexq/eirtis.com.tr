@@ -1,15 +1,10 @@
-<div class="mt-10">
-    <div class="container">
-        <h2 class="d-flex justify-content-center mt-4 mt-lg-0 mb-4">ClyDev CEO</h2>
-    </div>
-</div>
 <?php
 
 $userIds = array(
     "801069133810237491",
-    "1061346820632096778",
-    "816685775629320192",
-    "627460900978163712"
+    "1001220573457813584",
+    "627543270985170958",
+    "705038766582267944"
 );
 
 $botToken = $_ENV['TOKEN'];
@@ -49,6 +44,13 @@ foreach ($userIds as $index => $userId) {
     $users[$index] = $user;
 }
 ?>
+
+<div class="mt-10">
+    <div class="container">
+        <h2 class="d-flex justify-content-center mt-4 mt-lg-0 mb-4">Eirtis CEO</h2>
+    </div>
+</div>
+
 <div class="container">
     <div class="row">
         <?php foreach ($users as $index => $user) { ?>
@@ -65,3 +67,5 @@ foreach ($userIds as $index => $userId) {
         <?php } ?>
     </div>
 </div>
+
+

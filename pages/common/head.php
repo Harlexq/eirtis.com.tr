@@ -64,6 +64,7 @@ if (strpos($_SERVER['REQUEST_URI'], 'web') !== false) {
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- GOOGLE -->
     <meta name="google-site-verification" content="5bsv01X4bRapeovuq7GEL7LvFMjfa1tYyhCgOciR5ck" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6401934379264665" crossorigin="anonymous"></script>
 
 
     <!-- Google Tag Manager -->

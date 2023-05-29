@@ -610,19 +610,6 @@ table>* {
 
 /* TEAM START */
 
-.teamCeo::before {
-    content: "";
-    background: var(--pink);
-    width: 38%;
-    height: 29%;
-    position: absolute;
-    bottom: -77rem;
-    right: 82rem;
-    z-index: -1;
-    border-radius: 3rem;
-    transform: rotate(20deg);
-}
-
 .teamCeo {
     padding: 150px 0 0 0;
 }
@@ -632,17 +619,17 @@ table>* {
 }
 
 .user-avatar {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    padding: 0 0 100px 0;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 .user-avatar img {
-    border-radius: 50%;
-    margin-right: 10px;
-    width: 200px;
     border: 2px solid var(--white);
+    display: block;
+    margin: 0 auto;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
 }
 
 .user-info {
@@ -654,6 +641,14 @@ table>* {
     margin-top: 5px;
     font-weight: bold;
 }
+
+.user-nick {
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+    margin-top: 10px;
+}
+
 
 /* TEAM END */
 

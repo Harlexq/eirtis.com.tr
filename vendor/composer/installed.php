@@ -3,7 +3,7 @@
         'name' => 'bakir/eirtis.com.tr',
         'pretty_version' => 'dev-Harlex',
         'version' => 'dev-Harlex',
-        'reference' => '61e5ee542b39812826d63978c5479d5b18e4b97f',
+        'reference' => '8ff476e93e2075c4e0b4f560a9deba6c76683f9b',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'bakir/eirtis.com.tr' => array(
             'pretty_version' => 'dev-Harlex',
             'version' => 'dev-Harlex',
-            'reference' => '61e5ee542b39812826d63978c5479d5b18e4b97f',
+            'reference' => '8ff476e93e2075c4e0b4f560a9deba6c76683f9b',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
